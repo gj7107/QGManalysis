@@ -1,3 +1,5 @@
+# This code is from https://github.com/Tmodrzyk/richardson-lucy-python.git
+# Original author: Tmodrzyk
 import torch
 import torch.nn.functional as F
 from skimage.restoration import denoise_tv_chambolle
