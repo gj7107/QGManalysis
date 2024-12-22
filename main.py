@@ -9,7 +9,7 @@ import os
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 import numpy as np
-import core.misc as msic
+import core.misc as misc
 import time
 from dash.exceptions import PreventUpdate
 import threading
